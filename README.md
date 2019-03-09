@@ -26,7 +26,7 @@ create table zombie (
 commit;
 ```
 
-### Installing
+## Installing
 
 Download the source code or clone this repository
 
