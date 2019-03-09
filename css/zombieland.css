@@ -1,0 +1,18 @@
+.zombie{
+    width: 150px;
+    height: 200px;
+}
+
+h1{
+    color: var(--cyan);
+}
+
+.navbar{
+    background-color: var(--cyan);
+    color: var(--white);
+}
+
+.table .thead-dark th{
+    background-color: var(--cyan);
+    border-color: var(--cyan);
+}
