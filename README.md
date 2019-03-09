@@ -1,10 +1,10 @@
 # Zombieland
 
-Coldfusion scaffolding project to allow
+Coldfusion scaffolding project to show zombies from a MySQL Database
 
 ## Getting Started
 
-Zombieland is mixing CFML script and tags to list data from a MySQL db
+Zombieland is mixing CFML script and tags to list data from a MySQL DB
 - [Lucee Documentation Project](http://docs.lucee.org/)
 
 ### Prerequisites
